@@ -1,0 +1,130 @@
+[
+  {
+    "word": "aboriginal",
+    "type": [
+      { "en": "n",  "zh": "原住民" },
+      { "en": "adj","zh": "原住民的；土著的" }
+    ]
+  },
+  {
+    "word": "activist",
+    "type": [
+      { "en": "n",  "zh": "活動人士；倡議者" }
+    ]
+  },
+  {
+    "word": "adolescence",
+    "type": [
+      { "en": "n",  "zh": "青春期" }
+    ]
+  },
+  {
+    "word": "adolescent",
+    "type": [
+      { "en": "adj","zh": "青春期的；青少年的" },
+      { "en": "n",  "zh": "青少年" }
+    ]
+  },
+  {
+    "word": "alien",
+    "type": [
+      { "en": "n",  "zh": "外星人；外國人" },
+      { "en": "adj","zh": "陌生的；外星的" }
+    ]
+  },
+  {
+    "word": "analyst",
+    "type": [
+      { "en": "n",  "zh": "分析師" }
+    ]
+  },
+  {
+    "word": "apprentice",
+    "type": [
+      { "en": "n",  "zh": "學徒" },
+      { "en": "adj","zh": "當學徒的；學徒身分的" }
+    ]
+  },
+  {
+    "word": "architect",
+    "type": [
+      { "en": "n",  "zh": "建築師" }
+    ]
+  },
+  {
+    "word": "astronaut",
+    "type": [
+      { "en": "n",  "zh": "太空人" }
+    ]
+  },
+  {
+    "word": "astronomer",
+    "type": [
+      { "en": "n",  "zh": "天文學家" }
+    ]
+  },
+  {
+    "word": "attendant",
+    "type": [
+      { "en": "n",  "zh": "服務員；隨從" },
+      { "en": "adj","zh": "伴隨的；附帶的" }
+    ]
+  },
+  {
+    "word": "attorney",
+    "type": [
+      { "en": "n",  "zh": "律師（尤指訴訟律師）" }
+    ]
+  },
+  {
+    "word": "bachelor",
+    "type": [
+      { "en": "n",  "zh": "單身男子；學士" }
+    ]
+  },
+  {
+    "word": "barbarian",
+    "type": [
+      { "en": "n",  "zh": "野蠻人；未開化的人" },
+      { "en": "adj","zh": "野蠻的；未開化的" }
+    ]
+  },
+  {
+    "word": "bodyguard",
+    "type": [
+      { "en": "n",  "zh": "保鑣" }
+    ]
+  },
+  {
+    "word": "bully",
+    "type": [
+      { "en": "n",  "zh": "霸凌者；惡霸" },
+      { "en": "v",  "zh": "欺負；霸凌" }
+    ]
+  },
+  {
+    "word": "butcher",
+    "type": [
+      { "en": "n",  "zh": "屠夫；肉販" },
+      { "en": "v",  "zh": "屠宰；屠殺" }
+    ]
+  },
+  {
+    "word": "caretaker",
+    "type": [
+      { "en": "n",  "zh": "看管人；照顧者" }
+    ]
+  },
+  {
+    "word": "cashier",
+    "type": [
+      { "en": "n",  "zh": "收銀員" }
+    ]
+  },
+  {
+    "word": "casualty",
+    "type": [
+      { "en": "n",  "zh": "傷亡者；受害者" }
+    ]
+  }
+]
