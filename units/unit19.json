@@ -1,0 +1,118 @@
+[
+  {
+    "word": "straighten",
+    "type": [
+      { "en": "v", "zh": "弄直；整理" }
+    ]
+  },
+  {
+    "word": "stride",
+    "type": [
+      { "en": "v", "zh": "大步走；跨過" },
+      { "en": "n", "zh": "大步；進展" }
+    ]
+  },
+  {
+    "word": "stroll",
+    "type": [
+      { "en": "v", "zh": "散步；閒逛" },
+      { "en": "n", "zh": "散步；閒逛" }
+    ]
+  },
+  {
+    "word": "stumble",
+    "type": [
+      { "en": "v", "zh": "絆倒；蹣跚；失策" }
+    ]
+  },
+  {
+    "word": "thrust",
+    "type": [
+      { "en": "v", "zh": "刺；推；逼迫" },
+      { "en": "n", "zh": "刺；推力；要點" }
+    ]
+  },
+  {
+    "word": "tilt",
+    "type": [
+      { "en": "v", "zh": "傾斜；翹起" },
+      { "en": "n", "zh": "傾斜；斜坡" }
+    ]
+  },
+  {
+    "word": "trim",
+    "type": [
+      { "en": "v", "zh": "修剪；整理" },
+      { "en": "n", "zh": "裝飾；邊緣" },
+      { "en": "adj", "zh": "整齊的；苗條的" }
+    ]
+  },
+  {
+    "word": "tuck",
+    "type": [
+      { "en": "v", "zh": "塞進；打摺" },
+      { "en": "n", "zh": "摺邊；塞入的部分" }
+    ]
+  },
+  {
+    "word": "underline",
+    "type": [
+      { "en": "v", "zh": "劃線於下；強調" }
+    ]
+  },
+  {
+    "word": "vibrate",
+    "type": [
+      { "en": "v", "zh": "震動；振動" }
+    ]
+  },
+  {
+    "word": "trek",
+    "type": [
+      { "en": "v", "zh": "長途跋涉；艱苦行進" },
+      { "en": "n", "zh": "長途跋涉；艱苦旅行" }
+    ]
+  },
+  {
+    "word": "unfold",
+    "type": [
+      { "en": "v", "zh": "展開；呈現" }
+    ]
+  },
+  {
+    "word": "unification",
+    "type": [
+      { "en": "n", "zh": "統一；合併" }
+    ]
+  },
+  {
+    "word": "unlock",
+    "type": [
+      { "en": "v", "zh": "開鎖；釋放" }
+    ]
+  },
+  {
+    "word": "unveil",
+    "type": [
+      { "en": "v", "zh": "揭幕；揭示" }
+    ]
+  },
+  {
+    "word": "vibration",
+    "type": [
+      { "en": "n", "zh": "震動；振動" }
+    ]
+  },
+  {
+    "word": "wag",
+    "type": [
+      { "en": "v", "zh": "搖動；擺動" }
+    ]
+  },
+  {
+    "word": "withhold",
+    "type": [
+      { "en": "v", "zh": "保留；抑制" }
+    ]
+  }
+]
