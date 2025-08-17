@@ -1,0 +1,136 @@
+[
+  {
+    "word": "contaminate",
+    "type": [
+      { "en": "v", "zh": "污染；弄髒" }
+    ]
+  },
+  {
+    "word": "contend",
+    "type": [
+      { "en": "v", "zh": "競爭；主張" }
+    ]
+  },
+  {
+    "word": "coordinate",
+    "type": [
+      { "en": "v", "zh": "協調；整合" }
+    ]
+  },
+  {
+    "word": "deceive",
+    "type": [
+      { "en": "v", "zh": "欺騙；蒙蔽" }
+    ]
+  },
+  {
+    "word": "dedicate",
+    "type": [
+      { "en": "v", "zh": "奉獻；致力於" }
+    ]
+  },
+  {
+    "word": "dedication",
+    "type": [
+      { "en": "n", "zh": "奉獻；獻身；專注" }
+    ]
+  },
+  {
+    "word": "detain",
+    "type": [
+      { "en": "v", "zh": "扣留；拘留" }
+    ]
+  },
+  {
+    "word": "deter",
+    "type": [
+      { "en": "v", "zh": "阻止；威懾" }
+    ]
+  },
+  {
+    "word": "devotion",
+    "type": [
+      { "en": "n", "zh": "投入；奉獻；忠誠" }
+    ]
+  },
+  {
+    "word": "discard",
+    "type": [
+      { "en": "v", "zh": "丟棄；拋棄" }
+    ]
+  },
+  {
+    "word": "discharge",
+    "type": [
+      { "en": "v", "zh": "排出；釋放；解雇" },
+      { "en": "n", "zh": "排放；釋放；解雇" }
+    ]
+  },
+  {
+    "word": "disclose",
+    "type": [
+      { "en": "v", "zh": "揭露；透露" }
+    ]
+  },
+  {
+    "word": "disclosure",
+    "type": [
+      { "en": "n", "zh": "揭露；公開" }
+    ]
+  },
+  {
+    "word": "disconnect",
+    "type": [
+      { "en": "v", "zh": "斷開；中斷聯繫" }
+    ]
+  },
+  {
+    "word": "discriminate",
+    "type": [
+      { "en": "v", "zh": "歧視；區別" }
+    ]
+  },
+  {
+    "word": "discrimination",
+    "type": [
+      { "en": "n", "zh": "歧視；區別對待" }
+    ]
+  },
+  {
+    "word": "disgrace",
+    "type": [
+      { "en": "v", "zh": "使蒙羞；使丟臉" },
+      { "en": "n", "zh": "恥辱；丟臉" }
+    ]
+  },
+  {
+    "word": "dispense",
+    "type": [
+      { "en": "v", "zh": "分配；提供" }
+    ]
+  },
+  {
+    "word": "disposal",
+    "type": [
+      { "en": "n", "zh": "處理；處置；清理" }
+    ]
+  },
+  {
+    "word": "dispose",
+    "type": [
+      { "en": "v", "zh": "處理；安排；處置" }
+    ]
+  },
+  {
+    "word": "doze",
+    "type": [
+      { "en": "n", "zh": "打瞌睡；小睡" }
+    ]
+  },
+  {
+    "word": "errand",
+    "type": [
+      { "en": "n", "zh": "差事；跑腿" }
+    ]
+  }
+]
