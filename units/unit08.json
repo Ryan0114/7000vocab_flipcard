@@ -1,0 +1,133 @@
+[
+  {
+    "word": "breakthrough",
+    "type": [
+      { "en": "n", "zh": "突破；重大進展" }
+    ]
+  },
+  {
+    "word": "browse",
+    "type": [
+      { "en": "v", "zh": "瀏覽；隨意翻閱" },
+      { "en": "n", "zh": "瀏覽；隨意觀看" }
+    ]
+  },
+  {
+    "word": "bureaucracy",
+    "type": [
+      { "en": "n", "zh": "官僚制度；官僚作風" }
+    ]
+  },
+  {
+    "word": "burial",
+    "type": [
+      { "en": "n", "zh": "埋葬；葬禮" }
+    ]
+  },
+  {
+    "word": "carnival",
+    "type": [
+      { "en": "n", "zh": "嘉年華；狂歡節" }
+    ]
+  },
+  {
+    "word": "ceremony",
+    "type": [
+      { "en": "n", "zh": "儀式；典禮" }
+    ]
+  },
+  {
+    "word": "chore",
+    "type": [
+      { "en": "n", "zh": "家務；瑣事" }
+    ]
+  },
+  {
+    "word": "collaboration",
+    "type": [
+      { "en": "n", "zh": "合作；協作" }
+    ]
+  },
+  {
+    "word": "commitment",
+    "type": [
+      { "en": "n", "zh": "承諾；投入" }
+    ]
+  },
+  {
+    "word": "commonplace",
+    "type": [
+      { "en": "n", "zh": "平凡的事物；普通事" },
+      { "en": "adj", "zh": "平凡的；普通的" }
+    ]
+  },
+  {
+    "word": "compel",
+    "type": [
+      { "en": "v", "zh": "強迫；迫使" }
+    ]
+  },
+  {
+    "word": "compromise",
+    "type": [
+      { "en": "v", "zh": "妥協；讓步" },
+      { "en": "n", "zh": "妥協；折衷" }
+    ]
+  },
+  {
+    "word": "conceal",
+    "type": [
+      { "en": "v", "zh": "隱藏；掩蓋" }
+    ]
+  },
+  {
+    "word": "concession",
+    "type": [
+      { "en": "n", "zh": "讓步；特許權" }
+    ]
+  },
+  {
+    "word": "conduct",
+    "type": [
+      { "en": "v", "zh": "引導；指揮；進行" },
+      { "en": "n", "zh": "行為；舉止" }
+    ]
+  },
+  {
+    "word": "conform",
+    "type": [
+      { "en": "v", "zh": "遵守；符合" }
+    ]
+  },
+  {
+    "word": "confront",
+    "type": [
+      { "en": "v", "zh": "面對；對抗" }
+    ]
+  },
+  {
+    "word": "conservation",
+    "type": [
+      { "en": "n", "zh": "保護；保存" }
+    ]
+  },
+  {
+    "word": "conserve",
+    "type": [
+      { "en": "v", "zh": "保存；保護" },
+      { "en": "n", "zh": "蜜餞；果醬" }
+    ]
+  },
+  {
+    "word": "consultation",
+    "type": [
+      { "en": "n", "zh": "諮詢；商議" }
+    ]
+  },
+  {
+    "word": "consumption",
+    "type": [
+      { "en": "n", "zh": "消耗；消費；肺結核（舊稱）" }
+    ]
+  }
+]
