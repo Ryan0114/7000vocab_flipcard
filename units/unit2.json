@@ -1,0 +1,40 @@
+[
+  { "word":"grandiloquent","type":[{ "en":"adj","zh":"浮誇的；誇張的（語氣）"}] },
+  { "word":"obfuscate","type":[{ "en":"v","zh":"使模糊；使難以理解"}] },
+  { "word":"esoteric","type":[{ "en":"adj","zh":"艱澀的；深奧的；僅限內行的"}] },
+  { "word":"prolix","type":[{ "en":"adj","zh":"冗長的；囉嗦的"}] },
+  { "word":"perspicacity","type":[{ "en":"n","zh":"敏銳；洞察力"}] },
+  { "word":"lugubrious","type":[{ "en":"adj","zh":"悲傷的；憂鬱的（誇張語氣）"}] },
+  { "word":"magnanimous","type":[{ "en":"adj","zh":"寬宏大量的；高尚的"}] },
+  { "word":"pellucid","type":[{ "en":"adj","zh":"清晰明瞭的；透明的"}] },
+  {
+    "word":"antediluvian",
+    "type":[
+      { "en":"adj","zh":"極為古老的；過時的" },
+      { "en":"n","zh":"極為古老或保守的人"}
+    ]
+  },
+  { "word":"inveterate","type":[{ "en":"adj","zh":"根深蒂固的；積習難改的"}] },
+  { "word":"sycophant","type":[{ "en":"n","zh":"諂媚者；馬屁精"}] },
+  { "word":"obstreperous","type":[{ "en":"adj","zh":"喧鬧無禮的；難以管束的"}] },
+
+  { "word":"idiosyncratic","type":[{ "en":"adj","zh":"獨特的；有個人風格的"}] },
+  { "word":"recalcitrant","type":[{ "en":"adj","zh":"頑抗的；拒絕服從的"}] },
+  { "word":"incandescent","type":[{ "en":"adj","zh":"光輝燦爛的；充滿激情的"}] },
+  { "word":"parsimonious","type":[{ "en":"adj","zh":"過度節省的；吝嗇的"}] },
+  { "word":"extemporaneous","type":[{ "en":"adj","zh":"即席的；即興的；未經準備的"}] },
+  { "word":"facetious","type":[{ "en":"adj","zh":"不合時宜地開玩笑的；滑稽的"}] },
+  { "word":"vociferous","type":[{ "en":"adj","zh":"大聲疾呼的；喧嚷的；激昂的"}] },
+  { "word":"exculpate","type":[{ "en":"v","zh":"為…辯解；使無罪"}] },
+  { "word":"recondite","type":[{ "en":"adj","zh":"艱深的；一般人難以理解的"}] },
+  { "word":"demagogue","type":[{ "en":"n","zh":"煽動民眾者；煽動型政治人物"}] },
+  { "word":"obsequious","type":[{ "en":"adj","zh":"卑躬屈膝的；過度順從的"}] },
+  { "word":"mellifluous","type":[{ "en":"adj","zh":"（聲音）甜美動聽的；悅耳的"}] },
+
+  { "word":"persnickety","type":[{ "en":"adj","zh":"吹毛求疵的；難以取悅的"}] },
+  { "word":"opprobrium","type":[{ "en":"n","zh":"公眾的譴責；羞辱"}] },
+  { "word":"perspicuous","type":[{ "en":"adj","zh":"明晰的；清楚易懂的"}] },
+  { "word":"contumacious","type":[{ "en":"adj","zh":"頑固抗命的；拒不服從的"}] },
+  { "word":"byzantine","type":[{ "en":"adj","zh":"錯綜複雜的；陰謀重重的"}] },
+  { "word":"inexorable","type":[{ "en":"adj","zh":"無情的；不可阻擋的；不可動搖的"}] }
+]

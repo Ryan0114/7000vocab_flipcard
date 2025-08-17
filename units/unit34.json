@@ -1,0 +1,138 @@
+[
+  {
+    "word": "indignant",
+    "type": [
+      { "en": "adj", "zh": "憤慨的；義憤的" }
+    ]
+  },
+  {
+    "word": "insane",
+    "type": [
+      { "en": "adj", "zh": "瘋狂的；精神失常的" }
+    ]
+  },
+  {
+    "word": "irritable",
+    "type": [
+      { "en": "adj", "zh": "易怒的；急躁的" }
+    ]
+  },
+  {
+    "word": "jolly",
+    "type": [
+      { "en": "adj", "zh": "快樂的；愉快的" },
+      { "en": "v", "zh": "使快樂；使高興" }
+    ]
+  },
+  {
+    "word": "joyous",
+    "type": [
+      { "en": "adj", "zh": "充滿喜悅的；快樂的" }
+    ]
+  },
+  {
+    "word": "intrigue",
+    "type": [
+      { "en": "adj", "zh": "神秘的；引起好奇的" },
+      { "en": "v", "zh": "引起興趣；激起好奇心" }
+    ]
+  },
+  {
+    "word": "lonesome",
+    "type": [
+      { "en": "adj", "zh": "孤單的；寂寞的" }
+    ]
+  },
+  {
+    "word": "melancholy",
+    "type": [
+      { "en": "n", "zh": "憂鬱；哀傷" },
+      { "en": "adj", "zh": "憂鬱的；令人傷感的" }
+    ]
+  },
+  {
+    "word": "moody",
+    "type": [
+      { "en": "adj", "zh": "情緒多變的；喜怒無常的" }
+    ]
+  },
+  {
+    "word": "morale",
+    "type": [
+      { "en": "n", "zh": "士氣；精神狀態" }
+    ]
+  },
+  {
+    "word": "mourn",
+    "type": [
+      { "en": "v", "zh": "哀悼；悼念" }
+    ]
+  },
+  {
+    "word": "mournful",
+    "type": [
+      { "en": "adj", "zh": "悲傷的；哀悼的" }
+    ]
+  },
+  {
+    "word": "obsess",
+    "type": [
+      { "en": "v", "zh": "困擾；使著迷" }
+    ]
+  },
+  {
+    "word": "outlet",
+    "type": [
+      { "en": "n", "zh": "出口；發洩的途徑" }
+    ]
+  },
+  {
+    "word": "outrage",
+    "type": [
+      { "en": "n", "zh": "憤怒；暴行" },
+      { "en": "v", "zh": "激怒；冒犯" }
+    ]
+  },
+  {
+    "word": "outrageous",
+    "type": [
+      { "en": "adj", "zh": "離譜的；令人震驚的" }
+    ]
+  },
+  {
+    "word": "overwhelm",
+    "type": [
+      { "en": "v", "zh": "使不知所措；壓倒" }
+    ]
+  },
+  {
+    "word": "passionate",
+    "type": [
+      { "en": "adj", "zh": "充滿熱情的；熱烈的" }
+    ]
+  },
+  {
+    "word": "pathetic",
+    "type": [
+      { "en": "adj", "zh": "可憐的；令人同情的" }
+    ]
+  },
+  {
+    "word": "rejoice",
+    "type": [
+      { "en": "v", "zh": "高興；欣喜" }
+    ]
+  },
+  {
+    "word": "relentless",
+    "type": [
+      { "en": "adj", "zh": "不間斷的；無情的" }
+    ]
+  },
+  {
+    "word": "reminiscent",
+    "type": [
+      { "en": "adj", "zh": "令人回想起的；懷舊的" }
+    ]
+  }
+]
