@@ -1,0 +1,141 @@
+[
+  {
+    "word": "motherhood",
+    "type": [
+      { "en": "n", "zh": "母職；為人母的身分" }
+    ]
+  },
+  {
+    "word": "novice",
+    "type": [
+      { "en": "n", "zh": "新手；初學者" }
+    ]
+  },
+  {
+    "word": "observer",
+    "type": [
+      { "en": "n", "zh": "觀察者；旁觀者" }
+    ]
+  },
+  {
+    "word": "offspring",
+    "type": [
+      { "en": "n", "zh": "子女；後代" }
+    ]
+  },
+  {
+    "word": "opponent",
+    "type": [
+      { "en": "n", "zh": "對手；反對者" }
+    ]
+  },
+  {
+    "word": "organizer",
+    "type": [
+      { "en": "n", "zh": "主辦者；組織者" }
+    ]
+  },
+  {
+    "word": "outsider",
+    "type": [
+      { "en": "n", "zh": "局外人；外來者" }
+    ]
+  },
+  {
+    "word": "participant",
+    "type": [
+      { "en": "n", "zh": "參與者；參加者" }
+    ]
+  },
+  {
+    "word": "patron",
+    "type": [
+      { "en": "n", "zh": "贊助人；老顧客" }
+    ]
+  },
+  {
+    "word": "peasant",
+    "type": [
+      { "en": "n", "zh": "農民；佃農" }
+    ]
+  },
+  {
+    "word": "performer",
+    "type": [
+      { "en": "n", "zh": "表演者；演出者" }
+    ]
+  },
+  {
+    "word": "pianist",
+    "type": [
+      { "en": "n", "zh": "鋼琴家" }
+    ]
+  },
+  {
+    "word": "playwright",
+    "type": [
+      { "en": "n", "zh": "劇作家" }
+    ]
+  },
+  {
+    "word": "practitioner",
+    "type": [
+      { "en": "n", "zh": "從業者；實踐者" }
+    ]
+  },
+  {
+    "word": "predecessor",
+    "type": [
+      { "en": "n", "zh": "前任；前輩" }
+    ]
+  },
+  {
+    "word": "recipient",
+    "type": [
+      { "en": "n", "zh": "受贈者；接受者" }
+    ]
+  },
+  {
+    "word": "referee",
+    "type": [
+      { "en": "n", "zh": "裁判員" },
+      { "en": "v", "zh": "擔任裁判；仲裁" }
+    ]
+  },
+  {
+    "word": "sculptor",
+    "type": [
+      { "en": "n", "zh": "雕刻家" }
+    ]
+  },
+  {
+    "word": "sibling",
+    "type": [
+      { "en": "n", "zh": "兄弟姊妹" }
+    ]
+  },
+  {
+    "word": "specialist",
+    "type": [
+      { "en": "n", "zh": "專家；專門人員" }
+    ]
+  },
+  {
+    "word": "stepchild",
+    "type": [
+      { "en": "n", "zh": "繼子；繼女" }
+    ]
+  },
+  {
+    "word": "stepfather",
+    "type": [
+      { "en": "n", "zh": "繼父" }
+    ]
+  },
+  {
+    "word": "stepmother",
+    "type": [
+      { "en": "n", "zh": "繼母" }
+    ]
+  }
+]
