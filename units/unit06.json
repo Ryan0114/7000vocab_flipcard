@@ -1,0 +1,171 @@
+[
+  {
+    "word": "backbone",
+    "type": [
+      { "en": "n", "zh": "脊椎；支柱；骨幹" }
+    ]
+  },
+  {
+    "word": "blond(e)",
+    "type": [
+      { "en": "adj", "zh": "金髮的" },
+      { "en": "n",   "zh": "金髮的人" }
+    ]
+  },
+  {
+    "word": "bodily",
+    "type": [
+      { "en": "adj", "zh": "身體的；肉體的" },
+      { "en": "adv", "zh": "整個地；全部地（以身體方式）" }
+    ]
+  },
+  {
+    "word": "bosom",
+    "type": [
+      { "en": "n", "zh": "胸部；懷抱" }
+    ]
+  },
+  {
+    "word": "complexion",
+    "type": [
+      { "en": "n", "zh": "膚色；氣色" }
+    ]
+  },
+  {
+    "word": "corpse",
+    "type": [
+      { "en": "n", "zh": "屍體" }
+    ]
+  },
+  {
+    "word": "dental",
+    "type": [
+      { "en": "adj", "zh": "牙齒的；牙科的" }
+    ]
+  },
+  {
+    "word": "digestion",
+    "type": [
+      { "en": "n", "zh": "消化；消化能力" }
+    ]
+  },
+  {
+    "word": "eyelash",
+    "type": [
+      { "en": "n", "zh": "睫毛" }
+    ]
+  },
+  {
+    "word": "eyelid",
+    "type": [
+      { "en": "n", "zh": "眼瞼；眼皮" }
+    ]
+  },
+  {
+    "word": "eyesight",
+    "type": [
+      { "en": "n", "zh": "視力；視覺" }
+    ]
+  },
+  {
+    "word": "hormone",
+    "type": [
+      { "en": "n", "zh": "荷爾蒙；激素" }
+    ]
+  },
+  {
+    "word": "mustache",
+    "type": [
+      { "en": "n", "zh": "小鬍子；八字鬚" }
+    ]
+  },
+  {
+    "word": "nostril",
+    "type": [
+      { "en": "n", "zh": "鼻孔" }
+    ]
+  },
+  {
+    "word": "profile",
+    "type": [
+      { "en": "n", "zh": "側面輪廓；人物簡介" },
+      { "en": "v", "zh": "描繪…的輪廓；概述" }
+    ]
+  },
+  {
+    "word": "pulse",
+    "type": [
+      { "en": "n", "zh": "脈搏" },
+      { "en": "v", "zh": "搏動；跳動" }
+    ]
+  },
+  {
+    "word": "rib",
+    "type": [
+      { "en": "n", "zh": "肋骨" },
+      { "en": "v", "zh": "取笑；揶揄" }
+    ]
+  },
+  {
+    "word": "skeleton",
+    "type": [
+      { "en": "n", "zh": "骨骼；骨架" }
+    ]
+  },
+  {
+    "word": "skull",
+    "type": [
+      { "en": "n", "zh": "頭骨；顱骨" }
+    ]
+  },
+  {
+    "word": "spine",
+    "type": [
+      { "en": "n", "zh": "脊柱；脊椎；書脊" }
+    ]
+  },
+  {
+    "word": "thigh",
+    "type": [
+      { "en": "n", "zh": "大腿" }
+    ]
+  },
+  {
+    "word": "tiptoe",
+    "type": [
+      { "en": "n", "zh": "腳尖" },
+      { "en": "v", "zh": "踮著腳走" }
+    ]
+  },
+  {
+    "word": "vein",
+    "type": [
+      { "en": "n", "zh": "靜脈；脈絡" }
+    ]
+  },
+  {
+    "word": "stature",
+    "type": [
+      { "en": "n", "zh": "身高；（精神）境界" }
+    ]
+  },
+  {
+    "word": "vigor",
+    "type": [
+      { "en": "n", "zh": "活力；精力；氣勢" }
+    ]
+  },
+  {
+    "word": "vitality",
+    "type": [
+      { "en": "n", "zh": "生命力；活力" }
+    ]
+  },
+  {
+    "word": "wrinkle",
+    "type": [
+      { "en": "n", "zh": "皺紋" },
+      { "en": "v", "zh": "使起皺紋；變皺" }
+    ]
+  }
+]
