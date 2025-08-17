@@ -1,0 +1,150 @@
+[
+  {
+    "word": "abuse",
+    "type": [
+      { "en": "v", "zh": "濫用；虐待" },
+      { "en": "n", "zh": "濫用；虐待" }
+    ]
+  },
+  {
+    "word": "accumulate",
+    "type": [
+      { "en": "v", "zh": "累積；積聚" }
+    ]
+  },
+  {
+    "word": "accumulation",
+    "type": [
+      { "en": "n", "zh": "累積；積聚" }
+    ]
+  },
+  {
+    "word": "accustom",
+    "type": [
+      { "en": "v", "zh": "使習慣於" }
+    ]
+  },
+  {
+    "word": "acquaint",
+    "type": [
+      { "en": "v", "zh": "使熟悉；介紹" }
+    ]
+  },
+  {
+    "word": "acquisition",
+    "type": [
+      { "en": "n", "zh": "取得；獲得物" }
+    ]
+  },
+  {
+    "word": "advocate",
+    "type": [
+      { "en": "v", "zh": "擁護；提倡" },
+      { "en": "n", "zh": "擁護者；提倡者" }
+    ]
+  },
+  {
+    "word": "alienate",
+    "type": [
+      { "en": "v", "zh": "疏遠；離間" }
+    ]
+  },
+  {
+    "word": "allocate",
+    "type": [
+      { "en": "v", "zh": "分配；配置" }
+    ]
+  },
+  {
+    "word": "alter",
+    "type": [
+      { "en": "v", "zh": "改變；修改" }
+    ]
+  },
+  {
+    "word": "amend",
+    "type": [
+      { "en": "v", "zh": "修正；改進" }
+    ]
+  },
+  {
+    "word": "applaud",
+    "type": [
+      { "en": "v", "zh": "鼓掌；稱讚" }
+    ]
+  },
+  {
+    "word": "applause",
+    "type": [
+      { "en": "n", "zh": "掌聲；喝采" }
+    ]
+  },
+  {
+    "word": "attain",
+    "type": [
+      { "en": "v", "zh": "達到；獲得" }
+    ]
+  },
+  {
+    "word": "attainment",
+    "type": [
+      { "en": "n", "zh": "達成；成就" }
+    ]
+  },
+  {
+    "word": "attendance",
+    "type": [
+      { "en": "n", "zh": "出席；參加；照料" }
+    ]
+  },
+  {
+    "word": "authorize",
+    "type": [
+      { "en": "v", "zh": "授權；批准" }
+    ]
+  },
+  {
+    "word": "banquet",
+    "type": [
+      { "en": "n", "zh": "宴會；盛宴" }
+    ]
+  },
+  {
+    "word": "beautify",
+    "type": [
+      { "en": "v", "zh": "美化；裝飾" }
+    ]
+  },
+  {
+    "word": "behalf",
+    "type": [
+      { "en": "n", "zh": "代表；利益" }
+    ]
+  },
+  {
+    "word": "betray",
+    "type": [
+      { "en": "v", "zh": "背叛；出賣" }
+    ]
+  },
+  {
+    "word": "beware",
+    "type": [
+      { "en": "v", "zh": "當心；提防" }
+    ]
+  },
+  {
+    "word": "bleach",
+    "type": [
+      { "en": "v", "zh": "漂白；使褪色" },
+      { "en": "n", "zh": "漂白劑" }
+    ]
+  },
+  {
+    "word": "boost",
+    "type": [
+      { "en": "v", "zh": "促進；提高" },
+      { "en": "n", "zh": "提升；增加" }
+    ]
+  }
+]
