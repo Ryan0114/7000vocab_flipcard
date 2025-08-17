@@ -1,0 +1,152 @@
+[
+  {
+    "word": "glare",
+    "type": [
+      { "en": "v", "zh": "怒目而視；發眩光" },
+      { "en": "n", "zh": "刺眼的光；瞪視" }
+    ]
+  },
+  {
+    "word": "glide",
+    "type": [
+      { "en": "v", "zh": "滑行；滑翔" }
+    ]
+  },
+  {
+    "word": "grip",
+    "type": [
+      { "en": "v", "zh": "緊握；控制" },
+      { "en": "n", "zh": "握力；控制" }
+    ]
+  },
+  {
+    "word": "haul",
+    "type": [
+      { "en": "v", "zh": "拖；拉；搬運" }
+    ]
+  },
+  {
+    "word": "hunch",
+    "type": [
+      { "en": "v", "zh": "隆起；弓起背" },
+      { "en": "n", "zh": "直覺；隆起" }
+    ]
+  },
+  {
+    "word": "incorporate",
+    "type": [
+      { "en": "v", "zh": "合併；納入" }
+    ]
+  },
+  {
+    "word": "lash",
+    "type": [
+      { "en": "v", "zh": "鞭打；猛擊" },
+      { "en": "n", "zh": "鞭子；睫毛" }
+    ]
+  },
+  {
+    "word": "linger",
+    "type": [
+      { "en": "v", "zh": "逗留；徘徊" }
+    ]
+  },
+  {
+    "word": "massage",
+    "type": [
+      { "en": "v", "zh": "按摩；推拿" },
+      { "en": "n", "zh": "按摩；推拿" }
+    ]
+  },
+  {
+    "word": "mingle",
+    "type": [
+      { "en": "v", "zh": "混合；交往" }
+    ]
+  },
+  {
+    "word": "mount",
+    "type": [
+      { "en": "v", "zh": "登上；增加" }
+    ]
+  },
+  {
+    "word": "penetrate",
+    "type": [
+      { "en": "v", "zh": "穿透；滲透" }
+    ]
+  },
+  {
+    "word": "pinch",
+    "type": [
+      { "en": "v", "zh": "捏；掐" },
+      { "en": "n", "zh": "捏；一撮" }
+    ]
+  },
+  {
+    "word": "plunge",
+    "type": [
+      { "en": "v", "zh": "投入；驟降" },
+      { "en": "n", "zh": "跳入；驟降" }
+    ]
+  },
+  {
+    "word": "poke",
+    "type": [
+      { "en": "v", "zh": "戳；伸出" },
+      { "en": "n", "zh": "戳；伸出" }
+    ]
+  },
+  {
+    "word": "posture",
+    "type": [
+      { "en": "n", "zh": "姿勢；態度" }
+    ]
+  },
+  {
+    "word": "puff",
+    "type": [
+      { "en": "v", "zh": "鼓吹；噴氣" },
+      { "en": "n", "zh": "泡芙；一口氣" }
+    ]
+  },
+  {
+    "word": "quake",
+    "type": [
+      { "en": "v", "zh": "震動；顫抖" },
+      { "en": "n", "zh": "地震；顫抖" }
+    ]
+  },
+  {
+    "word": "quiver",
+    "type": [
+      { "en": "v", "zh": "顫抖；震動" },
+      { "en": "n", "zh": "箭袋；顫抖" }
+    ]
+  },
+  {
+    "word": "removal",
+    "type": [
+      { "en": "n", "zh": "移除；拆除" }
+    ]
+  },
+  {
+    "word": "revolve",
+    "type": [
+      { "en": "v", "zh": "旋轉；環繞" }
+    ]
+  },
+  {
+    "word": "rip",
+    "type": [
+      { "en": "v", "zh": "撕裂；剝離" },
+      { "en": "n", "zh": "裂口；裂縫" }
+    ]
+  },
+  {
+    "word": "roam",
+    "type": [
+      { "en": "v", "zh": "漫遊；徘徊" }
+    ]
+  }
+]
