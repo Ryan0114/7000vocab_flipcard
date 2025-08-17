@@ -5,61 +5,60 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Vocabulary Units</title>
 <style>
-    body {
-        margin: 0;
-        font-family: 'Arial', sans-serif;
-        background: #0a0f1f;
-        color: #00f0ff;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        min-height: 100vh;
-    }
-
-    header {
-        padding: 20px;
-        text-align: center;
-        font-size: 2rem;
-        letter-spacing: 2px;
-        text-shadow: 0 0 5px #00f0ff, 0 0 10px #00f0ff, 0 0 20px #00f0ff;
-    }
-
-    .unit-select {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 10px;
-        margin-top: 30px;
-    }
-
-    .unit-button {
-        background: #0a0f1f;
-        border: 2px solid #00f0ff;
-        color: #00f0ff;
-        padding: 10px 15px;
-        cursor: pointer;
-        font-size: 1rem;
-        border-radius: 5px;
-        transition: 0.3s;
-        text-decoration: none;
-    }
-
-    .unit-button:hover {
-        background: #00f0ff;
-        color: #0a0f1f;
-        box-shadow: 0 0 20px #00f0ff;
-    }
+  body{margin:0;font-family:Arial,sans-serif;background:#0a0f1f;color:#00f0ff;display:flex;flex-direction:column;align-items:center;min-height:100vh}
+  header{padding:20px;text-align:center;font-size:2rem;text-shadow:0 0 5px #00f0ff,0 0 10px #00f0ff,0 0 20px #00f0ff}
+  .unit-select{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-top:30px}
+  .unit-button,.advanced-unit-button,.practice-button{
+    padding:10px 15px;
+    font-size:1rem;
+    text-decoration:none;
+    background:#0a0f1f;
+    border:2px solid #00f0ff;
+    color:#00f0ff;
+    border-radius:5px;
+    cursor:pointer;
+    transition:.3s
+  }
+  .unit-button:hover,.advanced-unit-button:hover,.practice-button:hover{
+    background:#00f0ff;color:#0a0f1f;box-shadow:0 0 20px #00f0ff
+  }
+  .advanced-unit-button{border-color:#ff007b;color:#ff007b}
+  .advanced-unit-button:hover{background:#ff007b;color:#0a0f1f;box-shadow:0 0 20px #ff007b}
+  .practice-button{margin-top:30px}
 </style>
 </head>
 <body>
+
 <header>Vocabulary Units</header>
 
-<div class="unit-select">
-    <script>
-        for (let i = 1; i <= 69; i++) {
-            document.write(`<a class="unit-button" href="unit.html?unit=${i}">Unit ${i}</a>`);
-        }
-    </script>
-</div>
+<div class="unit-select" id="normal-units"></div>
+
+<h3 style="margin-top:30px">Advanced Units</h3>
+<div class="unit-select" id="advanced-units"></div>
+
+<a href="unit.html?unit=practice" class="practice-button">訂正 (Practice)</a>
+
+<script>
+// Add normal units
+const normalContainer = document.getElementById("normal-units");
+for (let i = 1; i <= 69; i++) {
+  const link = document.createElement('a');
+  link.href = 'unit.html?unit=' + i;
+  link.textContent = 'Unit ' + i;
+  link.className = 'unit-button';
+  normalContainer.appendChild(link);
+}
+
+// Add advanced units
+const advancedContainer = document.getElementById("advanced-units");
+for (let i = 1; i <= 20; i++) {
+  const link = document.createElement('a');
+  link.href = 'unit.html?unit=adv' + i;
+  link.textContent = 'Advanced ' + i;
+  link.className = 'advanced-unit-button';
+  advancedContainer.appendChild(link);
+}
+</script>
+
 </body>
 </html>
