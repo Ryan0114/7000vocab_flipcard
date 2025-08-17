@@ -1,0 +1,128 @@
+[
+  {
+    "word": "align",
+    "type": [
+      { "en": "v", "zh": "對齊；排列；使一致" }
+    ]
+  },
+  {
+    "word": "avert",
+    "type": [
+      { "en": "v", "zh": "避免；轉移" }
+    ]
+  },
+  {
+    "word": "ascend",
+    "type": [
+      { "en": "v", "zh": "上升；攀登" }
+    ]
+  },
+  {
+    "word": "bound",
+    "type": [
+      { "en": "v", "zh": "跳躍；限制" },
+      { "en": "n", "zh": "邊界；跳躍" }
+    ]
+  },
+  {
+    "word": "bypass",
+    "type": [
+      { "en": "n", "zh": "旁路；迴避" },
+      { "en": "v", "zh": "繞過；忽視" }
+    ]
+  },
+  {
+    "word": "clasp",
+    "type": [
+      { "en": "v", "zh": "扣住；緊握" },
+      { "en": "n", "zh": "扣子；緊握" }
+    ]
+  },
+  {
+    "word": "cling",
+    "type": [
+      { "en": "v", "zh": "緊貼；依附" }
+    ]
+  },
+  {
+    "word": "confine",
+    "type": [
+      { "en": "v", "zh": "限制；監禁" }
+    ]
+  },
+  {
+    "word": "conversion",
+    "type": [
+      { "en": "n", "zh": "轉換；改變" }
+    ]
+  },
+  {
+    "word": "deplete",
+    "type": [
+      { "en": "v", "zh": "耗盡；減少" }
+    ]
+  },
+  {
+    "word": "descend",
+    "type": [
+      { "en": "v", "zh": "下降；下來" }
+    ]
+  },
+  {
+    "word": "descent",
+    "type": [
+      { "en": "n", "zh": "下降；血統" }
+    ]
+  },
+  {
+    "word": "detach",
+    "type": [
+      { "en": "v", "zh": "分開；拆卸" }
+    ]
+  },
+  {
+    "word": "elevate",
+    "type": [
+      { "en": "v", "zh": "提高；提升" }
+    ]
+  },
+  {
+    "word": "embrace",
+    "type": [
+      { "en": "v", "zh": "擁抱；接受" },
+      { "en": "n", "zh": "擁抱；接受" }
+    ]
+  },
+  {
+    "word": "emission",
+    "type": [
+      { "en": "n", "zh": "排放；散發" }
+    ]
+  },
+  {
+    "word": "evoke",
+    "type": [
+      { "en": "v", "zh": "喚起；引起" }
+    ]
+  },
+  {
+    "word": "flip",
+    "type": [
+      { "en": "v", "zh": "翻轉；擲" },
+      { "en": "n", "zh": "翻轉；輕彈" }
+    ]
+  },
+  {
+    "word": "forge",
+    "type": [
+      { "en": "v", "zh": "鍛造；偽造；努力建立" }
+    ]
+  },
+  {
+    "word": "gasp",
+    "type": [
+      { "en": "v", "zh": "喘氣；倒抽一口氣" },
+      { "en": "n", "zh": "喘氣；倒抽一口氣" }
+    ]
+  }
+]
