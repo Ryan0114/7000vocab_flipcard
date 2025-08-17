@@ -1,0 +1,158 @@
+[
+  {
+    "word": "convene",
+    "type": [
+      { "en": "v", "zh": "召集；召開" }
+    ]
+  },
+  {
+    "word": "debut",
+    "type": [
+      { "en": "n", "zh": "初次登場；首次亮相" },
+      { "en": "v", "zh": "初次登場；首次亮相" }
+    ]
+  },
+  {
+    "word": "disrupt",
+    "type": [
+      { "en": "v", "zh": "擾亂；破壞" }
+    ]
+  },
+  {
+    "word": "donate",
+    "type": [
+      { "en": "v", "zh": "捐贈；捐獻" }
+    ]
+  },
+  {
+    "word": "donation",
+    "type": [
+      { "en": "n", "zh": "捐贈；捐款" }
+    ]
+  },
+  {
+    "word": "emigrate",
+    "type": [
+      { "en": "v", "zh": "移居國外；移民" }
+    ]
+  },
+  {
+    "word": "emigration",
+    "type": [
+      { "en": "n", "zh": "移居國外；移民" }
+    ]
+  },
+  {
+    "word": "endeavor",
+    "type": [
+      { "en": "v", "zh": "努力；竭力" },
+      { "en": "n", "zh": "努力；事業" }
+    ]
+  },
+  {
+    "word": "enroll",
+    "type": [
+      { "en": "v", "zh": "註冊；登記" }
+    ]
+  },
+  {
+    "word": "enrollment",
+    "type": [
+      { "en": "n", "zh": "註冊；登記人數" }
+    ]
+  },
+  {
+    "word": "episode",
+    "type": [
+      { "en": "n", "zh": "一集；事件" }
+    ]
+  },
+  {
+    "word": "erect",
+    "type": [
+      { "en": "v", "zh": "建立；豎立" },
+      { "en": "adj", "zh": "直立的；豎立的" }
+    ]
+  },
+  {
+    "word": "escort",
+    "type": [
+      { "en": "v", "zh": "護送；陪同" },
+      { "en": "n", "zh": "護衛；護送者" }
+    ]
+  },
+  {
+    "word": "evacuate",
+    "type": [
+      { "en": "v", "zh": "撤離；疏散" }
+    ]
+  },
+  {
+    "word": "exclude",
+    "type": [
+      { "en": "v", "zh": "排除；不包括" }
+    ]
+  },
+  {
+    "word": "execute",
+    "type": [
+      { "en": "v", "zh": "執行；實施" }
+    ]
+  },
+  {
+    "word": "execution",
+    "type": [
+      { "en": "n", "zh": "執行；處決" }
+    ]
+  },
+  {
+    "word": "executive",
+    "type": [
+      { "en": "adj", "zh": "行政的；經營管理的" },
+      { "en": "n", "zh": "主管；行政人員" }
+    ]
+  },
+  {
+    "word": "exert",
+    "type": [
+      { "en": "v", "zh": "運用；施加（影響、力量）" }
+    ]
+  },
+  {
+    "word": "expedition",
+    "type": [
+      { "en": "n", "zh": "探險；遠征" }
+    ]
+  },
+  {
+    "word": "exploit",
+    "type": [
+      { "en": "v", "zh": "利用；剝削" },
+      { "en": "n", "zh": "功績；偉業" }
+    ]
+  },
+  {
+    "word": "exploration",
+    "type": [
+      { "en": "n", "zh": "探索；勘查" }
+    ]
+  },
+  {
+    "word": "facilitate",
+    "type": [
+      { "en": "v", "zh": "促進；便利化" }
+    ]
+  },
+  {
+    "word": "formulate",
+    "type": [
+      { "en": "v", "zh": "規劃；制定；明確表達" }
+    ]
+  },
+  {
+    "word": "forsake",
+    "type": [
+      { "en": "v", "zh": "放棄；拋棄" }
+    ]
+  }
+]
