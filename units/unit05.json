@@ -1,0 +1,134 @@
+[
+  {
+    "word": "substitute",
+    "type": [
+      { "en": "n", "zh": "替代者；代用品" },
+      { "en": "v", "zh": "取代；代替" }
+    ]
+  },
+  {
+    "word": "superintendent",
+    "type": [
+      { "en": "n", "zh": "監督人；主管；所長" }
+    ]
+  },
+  {
+    "word": "supervisor",
+    "type": [
+      { "en": "n", "zh": "監督者；指導者" }
+    ]
+  },
+  {
+    "word": "teller",
+    "type": [
+      { "en": "n", "zh": "銀行出納員；講述者" }
+    ]
+  },
+  {
+    "word": "tenant",
+    "type": [
+      { "en": "n", "zh": "房客；承租人" },
+      { "en": "v", "zh": "租用；租賃" }
+    ]
+  },
+  {
+    "word": "traitor",
+    "type": [
+      { "en": "n", "zh": "叛徒；背叛者" }
+    ]
+  },
+  {
+    "word": "undergraduate",
+    "type": [
+      { "en": "n", "zh": "大學生；本科生" }
+    ]
+  },
+  {
+    "word": "viewer",
+    "type": [
+      { "en": "n", "zh": "觀眾；觀看者" }
+    ]
+  },
+  {
+    "word": "violinist",
+    "type": [
+      { "en": "n", "zh": "小提琴家" }
+    ]
+  },
+  {
+    "word": "widow",
+    "type": [
+      { "en": "n", "zh": "寡婦" },
+      { "en": "v", "zh": "使成寡婦（或鰥夫）" }
+    ]
+  },
+  {
+    "word": "socialist",
+    "type": [
+      { "en": "n", "zh": "社會主義者" }
+    ]
+  },
+  {
+    "word": "spokesperson",
+    "type": [
+      { "en": "n", "zh": "發言人；代表" }
+    ]
+  },
+  {
+    "word": "sponsor",
+    "type": [
+      { "en": "n", "zh": "贊助者；主辦者" },
+      { "en": "v", "zh": "贊助；主辦" }
+    ]
+  },
+  {
+    "word": "spouse",
+    "type": [
+      { "en": "n", "zh": "配偶" }
+    ]
+  },
+  {
+    "word": "successor",
+    "type": [
+      { "en": "n", "zh": "繼承人；接班人" }
+    ]
+  },
+  {
+    "word": "usher",
+    "type": [
+      { "en": "n", "zh": "引座員；招待員" },
+      { "en": "v", "zh": "引導；招待" }
+    ]
+  },
+  {
+    "word": "victor",
+    "type": [
+      { "en": "n", "zh": "勝利者；獲勝者" }
+    ]
+  },
+  {
+    "word": "virgin",
+    "type": [
+      { "en": "n", "zh": "處女；童男" },
+      { "en": "adj", "zh": "未被使用的；未開發的" }
+    ]
+  },
+  {
+    "word": "vocation",
+    "type": [
+      { "en": "n", "zh": "職業；使命感" }
+    ]
+  },
+  {
+    "word": "vocational",
+    "type": [
+      { "en": "adj", "zh": "職業的；技能訓練的" }
+    ]
+  },
+  {
+    "word": "workforce",
+    "type": [
+      { "en": "n", "zh": "勞動力；全體員工" }
+    ]
+  }
+]
