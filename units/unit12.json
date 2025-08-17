@@ -1,0 +1,135 @@
+[
+  {
+    "word": "lure",
+    "type": [
+      { "en": "v", "zh": "引誘；誘惑" },
+      { "en": "n", "zh": "誘惑物；誘餌" }
+    ]
+  },
+  {
+    "word": "maintenance",
+    "type": [
+      { "en": "n", "zh": "維護；保養；維持" }
+    ]
+  },
+  {
+    "word": "manipulate",
+    "type": [
+      { "en": "v", "zh": "操縱；控制" }
+    ]
+  },
+  {
+    "word": "mediate",
+    "type": [
+      { "en": "v", "zh": "調解；仲裁" }
+    ]
+  },
+  {
+    "word": "migration",
+    "type": [
+      { "en": "n", "zh": "遷徙；移民" }
+    ]
+  },
+  {
+    "word": "milestone",
+    "type": [
+      { "en": "n", "zh": "里程碑；重要事件" }
+    ]
+  },
+  {
+    "word": "mimic",
+    "type": [
+      { "en": "v", "zh": "模仿；仿效" },
+      { "en": "n", "zh": "模仿者；仿製品" }
+    ]
+  },
+  {
+    "word": "mobilize",
+    "type": [
+      { "en": "v", "zh": "動員；調動" }
+    ]
+  },
+  {
+    "word": "modify",
+    "type": [
+      { "en": "v", "zh": "修改；變更" }
+    ]
+  },
+  {
+    "word": "mow",
+    "type": [
+      { "en": "v", "zh": "割草；修剪" }
+    ]
+  },
+  {
+    "word": "negotiation",
+    "type": [
+      { "en": "n", "zh": "協商；談判" }
+    ]
+  },
+  {
+    "word": "nurture",
+    "type": [
+      { "en": "v", "zh": "養育；培養" },
+      { "en": "n", "zh": "養育；培養" }
+    ]
+  },
+  {
+    "word": "occurrence",
+    "type": [
+      { "en": "n", "zh": "事件；發生" }
+    ]
+  },
+  {
+    "word": "oppress",
+    "type": [
+      { "en": "v", "zh": "壓迫；欺壓" }
+    ]
+  },
+  {
+    "word": "oppression",
+    "type": [
+      { "en": "n", "zh": "壓迫；沉重負擔" }
+    ]
+  },
+  {
+    "word": "overdo",
+    "type": [
+      { "en": "v", "zh": "做過頭；過度" }
+    ]
+  },
+  {
+    "word": "overhear",
+    "type": [
+      { "en": "v", "zh": "無意中聽到；偷聽" }
+    ]
+  },
+  {
+    "word": "overwork",
+    "type": [
+      { "en": "v", "zh": "工作過度；過勞" },
+      { "en": "n", "zh": "過度工作；勞累" }
+    ]
+  },
+  {
+    "word": "patrol",
+    "type": [
+      { "en": "v", "zh": "巡邏；巡視" },
+      { "en": "n", "zh": "巡邏；巡邏隊" }
+    ]
+  },
+  {
+    "word": "peek",
+    "type": [
+      { "en": "v", "zh": "偷看；窺視" },
+      { "en": "n", "zh": "一瞥；偷看" }
+    ]
+  },
+  {
+    "word": "plow",
+    "type": [
+      { "en": "v", "zh": "犁地；耕作" },
+      { "en": "n", "zh": "犁；耕地工具" }
+    ]
+  }
+]
