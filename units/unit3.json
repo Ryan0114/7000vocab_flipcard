@@ -1,0 +1,129 @@
+[
+  {
+    "word": "heterosexual",
+    "type": [
+      { "en": "adj", "zh": "異性戀的" },
+      { "en": "n",   "zh": "異性戀者" }
+    ]
+  },
+  {
+    "word": "homosexual",
+    "type": [
+      { "en": "adj", "zh": "同性戀的" },
+      { "en": "n",   "zh": "同性戀者" }
+    ]
+  },
+  {
+    "word": "idiot",
+    "type": [
+      { "en": "n", "zh": "白痴；笨蛋" }
+    ]
+  },
+  {
+    "word": "inhabitant",
+    "type": [
+      { "en": "n", "zh": "居民；居住者" }
+    ]
+  },
+  {
+    "word": "interpreter",
+    "type": [
+      { "en": "n", "zh": "口譯員；翻譯員" }
+    ]
+  },
+  {
+    "word": "investigator",
+    "type": [
+      { "en": "n", "zh": "調查員；偵查人員" }
+    ]
+  },
+  {
+    "word": "janitor",
+    "type": [
+      { "en": "n", "zh": "看門人；工友；管理員" }
+    ]
+  },
+  {
+    "word": "juvenile",
+    "type": [
+      { "en": "adj", "zh": "少年（期）的；幼稚的" },
+      { "en": "n",   "zh": "少年；未成年人" }
+    ]
+  },
+  {
+    "word": "lad",
+    "type": [
+      { "en": "n", "zh": "男孩；小伙子" }
+    ]
+  },
+  {
+    "word": "landlady",
+    "type": [
+      { "en": "n", "zh": "女房東" }
+    ]
+  },
+  {
+    "word": "landlord",
+    "type": [
+      { "en": "n", "zh": "房東；地主" }
+    ]
+  },
+  {
+    "word": "layman",
+    "type": [
+      { "en": "n", "zh": "外行人；非專業人士" }
+    ]
+  },
+  {
+    "word": "lesbian",
+    "type": [
+      { "en": "adj", "zh": "女同性戀的" },
+      { "en": "n",   "zh": "女同性戀者" }
+    ]
+  },
+  {
+    "word": "madam",
+    "type": [
+      { "en": "n", "zh": "夫人；女士（用於稱呼）" }
+    ]
+  },
+  {
+    "word": "maiden",
+    "type": [
+      { "en": "n",   "zh": "少女；未婚女子" },
+      { "en": "adj", "zh": "首次的；處女的" }
+    ]
+  },
+  {
+    "word": "masculine",
+    "type": [
+      { "en": "adj", "zh": "男性的；具有男子氣概的" }
+    ]
+  },
+  {
+    "word": "migrant",
+    "type": [
+      { "en": "n",   "zh": "移民；移居者" },
+      { "en": "adj", "zh": "遷移的；流動的" }
+    ]
+  },
+  {
+    "word": "mistress",
+    "type": [
+      { "en": "n", "zh": "情婦；女主人" }
+    ]
+  },
+  {
+    "word": "mortal",
+    "type": [
+      { "en": "n",   "zh": "凡人；人類" },
+      { "en": "adj", "zh": "會死亡的；致命的" }
+    ]
+  },
+  {
+    "word": "mortality",
+    "type": [
+      { "en": "n", "zh": "死亡率；必死性" }
+    ]
+  }
+]
