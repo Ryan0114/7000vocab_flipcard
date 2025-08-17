@@ -1,0 +1,172 @@
+[
+  {
+    "word": "athletics",
+    "type": [
+      { "en": "n", "zh": "田徑運動；體育活動" }
+    ]
+  },
+  {
+    "word": "boxer",
+    "type": [
+      { "en": "n", "zh": "拳擊手" }
+    ]
+  },
+  {
+    "word": "boxing",
+    "type": [
+      { "en": "n", "zh": "拳擊；裝箱" }
+    ]
+  },
+  {
+    "word": "diversion",
+    "type": [
+      { "en": "n", "zh": "轉向；娛樂；消遣" }
+    ]
+  },
+  {
+    "word": "foul",
+    "type": [
+      { "en": "n", "zh": "犯規；污物" },
+      { "en": "v", "zh": "弄髒；犯規" },
+      { "en": "adj", "zh": "犯規的；污穢的" }
+    ]
+  },
+  {
+    "word": "goalkeeper",
+    "type": [
+      { "en": "n", "zh": "守門員" }
+    ]
+  },
+  {
+    "word": "hockey",
+    "type": [
+      { "en": "n", "zh": "曲棍球" }
+    ]
+  },
+  {
+    "word": "hurdle",
+    "type": [
+      { "en": "n", "zh": "障礙；困難" },
+      { "en": "v", "zh": "克服；跨越" }
+    ]
+  },
+  {
+    "word": "inning",
+    "type": [
+      { "en": "n", "zh": "局；比賽回合" }
+    ]
+  },
+  {
+    "word": "jockey",
+    "type": [
+      { "en": "n", "zh": "騎師" },
+      { "en": "v", "zh": "耍手段；駕馭" }
+    ]
+  },
+  {
+    "word": "outing",
+    "type": [
+      { "en": "n", "zh": "郊遊；外出活動" }
+    ]
+  },
+  {
+    "word": "pastime",
+    "type": [
+      { "en": "n", "zh": "消遣；娛樂" }
+    ]
+  },
+  {
+    "word": "photographic",
+    "type": [
+      { "en": "adj", "zh": "攝影的；像照片般的" }
+    ]
+  },
+  {
+    "word": "recreational",
+    "type": [
+      { "en": "adj", "zh": "休閒的；娛樂的" }
+    ]
+  },
+  {
+    "word": "relay",
+    "type": [
+      { "en": "n", "zh": "接力賽；轉達" },
+      { "en": "v", "zh": "轉達；接力" }
+    ]
+  },
+  {
+    "word": "resort",
+    "type": [
+      { "en": "n", "zh": "度假村；手段" },
+      { "en": "v", "zh": "訴諸；採用" }
+    ]
+  },
+  {
+    "word": "rival",
+    "type": [
+      { "en": "n", "zh": "競爭者；對手" },
+      { "en": "v", "zh": "與…競爭" }
+    ]
+  },
+  {
+    "word": "rivalry",
+    "type": [
+      { "en": "n", "zh": "競爭；對抗" }
+    ]
+  },
+  {
+    "word": "spectator",
+    "type": [
+      { "en": "n", "zh": "觀眾；旁觀者" }
+    ]
+  },
+  {
+    "word": "sportsman",
+    "type": [
+      { "en": "n", "zh": "運動員；好運動的人" }
+    ]
+  },
+  {
+    "word": "sportsmanship",
+    "type": [
+      { "en": "n", "zh": "運動家精神；公平競技" }
+    ]
+  },
+  {
+    "word": "spur",
+    "type": [
+      { "en": "n", "zh": "刺激；馬刺" },
+      { "en": "v", "zh": "激勵；促使" }
+    ]
+  },
+  {
+    "word": "thriller",
+    "type": [
+      { "en": "n", "zh": "驚悚小說；驚險片" }
+    ]
+  },
+  {
+    "word": "tournament",
+    "type": [
+      { "en": "n", "zh": "錦標賽；比賽" }
+    ]
+  },
+  {
+    "word": "yoga",
+    "type": [
+      { "en": "n", "zh": "瑜伽" }
+    ]
+  },
+  {
+    "word": "trophy",
+    "type": [
+      { "en": "n", "zh": "獎盃；戰利品" }
+    ]
+  },
+  {
+    "word": "wrestle",
+    "type": [
+      { "en": "v", "zh": "摔跤；努力對付" }
+    ]
+  }
+]
