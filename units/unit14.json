@@ -1,0 +1,131 @@
+[
+  {
+    "word": "slaughter",
+    "type": [
+      { "en": "v", "zh": "屠殺；殺戮" },
+      { "en": "n", "zh": "屠殺；大屠殺" }
+    ]
+  },
+  {
+    "word": "slay",
+    "type": [
+      { "en": "v", "zh": "殺害；屠殺" }
+    ]
+  },
+  {
+    "word": "snore",
+    "type": [
+      { "en": "v", "zh": "打鼾" },
+      { "en": "n", "zh": "鼾聲" }
+    ]
+  },
+  {
+    "word": "soften",
+    "type": [
+      { "en": "v", "zh": "變柔軟；緩和" }
+    ]
+  },
+  {
+    "word": "sow",
+    "type": [
+      { "en": "v", "zh": "播種；散布" }
+    ]
+  },
+  {
+    "word": "stain",
+    "type": [
+      { "en": "v", "zh": "弄髒；沾汙" },
+      { "en": "n", "zh": "污漬；汙點" }
+    ]
+  },
+  {
+    "word": "storage",
+    "type": [
+      { "en": "n", "zh": "儲存；倉庫" }
+    ]
+  },
+  {
+    "word": "submit",
+    "type": [
+      { "en": "v", "zh": "提交；呈遞" }
+    ]
+  },
+  {
+    "word": "supervise",
+    "type": [
+      { "en": "v", "zh": "監督；管理" }
+    ]
+  },
+  {
+    "word": "seduce",
+    "type": [
+      { "en": "v", "zh": "誘惑；引誘" }
+    ]
+  },
+  {
+    "word": "seminar",
+    "type": [
+      { "en": "n", "zh": "研討會；討論班" }
+    ]
+  },
+  {
+    "word": "simplify",
+    "type": [
+      { "en": "v", "zh": "簡化；使單純" }
+    ]
+  },
+  {
+    "word": "skim",
+    "type": [
+      { "en": "v", "zh": "略讀；瀏覽" }
+    ]
+  },
+  {
+    "word": "socialize",
+    "type": [
+      { "en": "v", "zh": "社交；交際" }
+    ]
+  },
+  {
+    "word": "soothe",
+    "type": [
+      { "en": "v", "zh": "安慰；緩和；撫慰" }
+    ]
+  },
+  {
+    "word": "stimulate",
+    "type": [
+      { "en": "v", "zh": "刺激；激勵" }
+    ]
+  },
+  {
+    "word": "stimulation",
+    "type": [
+      { "en": "n", "zh": "刺激；激勵" }
+    ]
+  },
+  {
+    "word": "strangle",
+    "type": [
+      { "en": "v", "zh": "掐死；扼殺" }
+    ]
+  },
+  {
+    "word": "subscribe",
+    "type": [
+      { "en": "v", "zh": "訂閱；認捐" }
+    ]
+  },
+  {
+    "word": "subscription",
+    "type": [
+      { "en": "n", "zh": "訂閱；捐款" }
+    ]
+  },
+  {
+    "word": "suffocate",
+    "type": [
+      { "en": "v", "zh": "窒息；悶死" }
+    ]
+  }
+]
