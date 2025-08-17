@@ -71,21 +71,31 @@
 <script>
 // get url
 function getParam(k){
- return new URLSearchParams(window.location.search).get(k);
+  return new URLSearchParams(window.location.search).get(k);
 }
-const unit = getParam('unit') || 1;
+
+// Get unit parameter
+let unit = getParam('unit') || '1';
+
+// If it's a numeric unit, pad single digits with a leading zero
+if (!isNaN(unit) && unit !== 'practice') {
+  unit = unit.padStart(2, '0'); // e.g., '1' -> '01'
+}
+
+// Update the unit title
 document.getElementById('unit-title').textContent =
   (unit === 'practice') ? 'Practice (訂正)' :
-  (unit.startsWith('adv') ? 'Advanced ' + unit.replace('adv','') : 'Unit ' + unit);
+  (unit.startsWith('adv') ? 'Advanced ' + unit.replace('adv','') : 'Unit ' + parseInt(unit, 10));
 
 let vocab = [], currentIndex = 0, currentLang='eng';
 
 function shuffle(a){
- for(let i=a.length-1;i>0;i--){
-  const j=Math.floor(Math.random()*(i+1));
-  [a[i],a[j]]=[a[j],a[i]];
- }
+  for(let i=a.length-1;i>0;i--){
+    const j=Math.floor(Math.random()*(i+1));
+    [a[i],a[j]]=[a[j],a[i]];
+  }
 }
+
 
 // storage key for marked words
 const STORAGE_KEY = "markedWords";
