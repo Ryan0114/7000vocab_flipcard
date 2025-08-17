@@ -1,0 +1,149 @@
+[
+  {
+    "word": "fuss",
+    "type": [
+      { "en": "n", "zh": "大驚小怪；忙亂" },
+      { "en": "v", "zh": "小題大作；煩擾" }
+    ]
+  },
+  {
+    "word": "gathering",
+    "type": [
+      { "en": "n", "zh": "聚會；集會" }
+    ]
+  },
+  {
+    "word": "generate",
+    "type": [
+      { "en": "v", "zh": "產生；引起" }
+    ]
+  },
+  {
+    "word": "guideline",
+    "type": [
+      { "en": "n", "zh": "指導方針；準則" }
+    ]
+  },
+  {
+    "word": "harass",
+    "type": [
+      { "en": "v", "zh": "騷擾；煩擾" }
+    ]
+  },
+  {
+    "word": "harassment",
+    "type": [
+      { "en": "n", "zh": "騷擾；煩擾" }
+    ]
+  },
+  {
+    "word": "humiliate",
+    "type": [
+      { "en": "v", "zh": "羞辱；使丟臉" }
+    ]
+  },
+  {
+    "word": "implement",
+    "type": [
+      { "en": "v", "zh": "實施；執行" },
+      { "en": "n", "zh": "工具；器具" }
+    ]
+  },
+  {
+    "word": "induce",
+    "type": [
+      { "en": "v", "zh": "誘導；引起" }
+    ]
+  },
+  {
+    "word": "indulge",
+    "type": [
+      { "en": "v", "zh": "縱容；沉溺於" }
+    ]
+  },
+  {
+    "word": "inherit",
+    "type": [
+      { "en": "v", "zh": "繼承；遺傳" }
+    ]
+  },
+  {
+    "word": "initiate",
+    "type": [
+      { "en": "v", "zh": "開始；發起" },
+      { "en": "n", "zh": "新加入者；入會者" }
+    ]
+  },
+  {
+    "word": "initiative",
+    "type": [
+      { "en": "n", "zh": "主動性；倡議；進取心" }
+    ]
+  },
+  {
+    "word": "innovation",
+    "type": [
+      { "en": "n", "zh": "創新；新方法" }
+    ]
+  },
+  {
+    "word": "inquire",
+    "type": [
+      { "en": "v", "zh": "詢問；打聽" }
+    ]
+  },
+  {
+    "word": "inquiry",
+    "type": [
+      { "en": "n", "zh": "詢問；調查" }
+    ]
+  },
+  {
+    "word": "installation",
+    "type": [
+      { "en": "n", "zh": "安裝；設施" }
+    ]
+  },
+  {
+    "word": "intervene",
+    "type": [
+      { "en": "v", "zh": "干涉；介入" }
+    ]
+  },
+  {
+    "word": "intervention",
+    "type": [
+      { "en": "n", "zh": "干預；介入" }
+    ]
+  },
+  {
+    "word": "intimidate",
+    "type": [
+      { "en": "v", "zh": "威脅；恐嚇" }
+    ]
+  },
+  {
+    "word": "intrude",
+    "type": [
+      { "en": "v", "zh": "闖入；打擾" }
+    ]
+  },
+  {
+    "word": "intruder",
+    "type": [
+      { "en": "n", "zh": "闖入者；侵入者" }
+    ]
+  },
+  {
+    "word": "liberate",
+    "type": [
+      { "en": "v", "zh": "解放；釋放" }
+    ]
+  },
+  {
+    "word": "liberation",
+    "type": [
+      { "en": "n", "zh": "解放；釋放" }
+    ]
+  }
+]
