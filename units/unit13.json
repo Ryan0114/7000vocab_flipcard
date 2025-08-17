@@ -1,0 +1,141 @@
+[
+  {
+    "word": "precaution",
+    "type": [
+      { "en": "n", "zh": "預防措施；小心" }
+    ]
+  },
+  {
+    "word": "preside",
+    "type": [
+      { "en": "v", "zh": "主持；主管" }
+    ]
+  },
+  {
+    "word": "preview",
+    "type": [
+      { "en": "v", "zh": "預覽；試映" },
+      { "en": "n", "zh": "預覽；試映" }
+    ]
+  },
+  {
+    "word": "probe",
+    "type": [
+      { "en": "n", "zh": "探針；調查" },
+      { "en": "v", "zh": "探查；調查" }
+    ]
+  },
+  {
+    "word": "provoke",
+    "type": [
+      { "en": "v", "zh": "激怒；引起" }
+    ]
+  },
+  {
+    "word": "quest",
+    "type": [
+      { "en": "n", "zh": "追求；探索" },
+      { "en": "v", "zh": "尋求；探索" }
+    ]
+  },
+  {
+    "word": "rally",
+    "type": [
+      { "en": "v", "zh": "召集；集合；振作" },
+      { "en": "n", "zh": "集會；恢復" }
+    ]
+  },
+  {
+    "word": "reap",
+    "type": [
+      { "en": "v", "zh": "收割；獲得（成果）" }
+    ]
+  },
+  {
+    "word": "reconcile",
+    "type": [
+      { "en": "v", "zh": "調解；和解；調和" }
+    ]
+  },
+  {
+    "word": "refine",
+    "type": [
+      { "en": "v", "zh": "精煉；改善；提煉" }
+    ]
+  },
+  {
+    "word": "refinement",
+    "type": [
+      { "en": "n", "zh": "精煉；改進；優雅" }
+    ]
+  },
+  {
+    "word": "refresh",
+    "type": [
+      { "en": "v", "zh": "使清新；使恢復精神" }
+    ]
+  },
+  {
+    "word": "reproduce",
+    "type": [
+      { "en": "v", "zh": "繁殖；複製；再生" }
+    ]
+  },
+  {
+    "word": "restrain",
+    "type": [
+      { "en": "v", "zh": "抑制；約束" }
+    ]
+  },
+  {
+    "word": "restraint",
+    "type": [
+      { "en": "n", "zh": "限制；約束；克制" }
+    ]
+  },
+  {
+    "word": "resume",
+    "type": [
+      { "en": "v", "zh": "重新開始；恢復" },
+      { "en": "n", "zh": "履歷表" }
+    ]
+  },
+  {
+    "word": "retrieve",
+    "type": [
+      { "en": "v", "zh": "找回；取回；檢索" }
+    ]
+  },
+  {
+    "word": "revelation",
+    "type": [
+      { "en": "n", "zh": "揭示；啟示" }
+    ]
+  },
+  {
+    "word": "salvage",
+    "type": [
+      { "en": "v", "zh": "搶救；回收" },
+      { "en": "n", "zh": "搶救物；回收品" }
+    ]
+  },
+  {
+    "word": "scan",
+    "type": [
+      { "en": "v", "zh": "掃描；審視" },
+      { "en": "n", "zh": "掃描；審視" }
+    ]
+  },
+  {
+    "word": "scheme",
+    "type": [
+      { "en": "n", "zh": "計畫；方案；陰謀" }
+    ]
+  },
+  {
+    "word": "scrutiny",
+    "type": [
+      { "en": "n", "zh": "仔細檢查；審查" }
+    ]
+  }
+]
