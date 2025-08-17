@@ -1,0 +1,115 @@
+[
+  {
+    "word": "sustain",
+    "type": [
+      { "en": "v", "zh": "維持；支撐；承受" }
+    ]
+  },
+  {
+    "word": "tackle",
+    "type": [
+      { "en": "v", "zh": "處理；對付；擒抱" }
+    ]
+  },
+  {
+    "word": "tangle",
+    "type": [
+      { "en": "v", "zh": "糾纏；使混亂" },
+      { "en": "n", "zh": "糾結；混亂" }
+    ]
+  },
+  {
+    "word": "tempt",
+    "type": [
+      { "en": "v", "zh": "誘惑；引誘" }
+    ]
+  },
+  {
+    "word": "temptation",
+    "type": [
+      { "en": "n", "zh": "誘惑；引誘" }
+    ]
+  },
+  {
+    "word": "trifle",
+    "type": [
+      { "en": "n", "zh": "瑣事；小事" },
+      { "en": "v", "zh": "輕視；玩弄" }
+    ]
+  },
+  {
+    "word": "yield",
+    "type": [
+      { "en": "v", "zh": "產生；屈服；讓步" },
+      { "en": "n", "zh": "產量；收益" }
+    ]
+  },
+  {
+    "word": "supervision",
+    "type": [
+      { "en": "n", "zh": "監督；管理" }
+    ]
+  },
+  {
+    "word": "supplement",
+    "type": [
+      { "en": "v", "zh": "補充；增補" },
+      { "en": "n", "zh": "補充物；增刊" }
+    ]
+  },
+  {
+    "word": "swap",
+    "type": [
+      { "en": "v", "zh": "交換；互換" },
+      { "en": "n", "zh": "交換；互換物" }
+    ]
+  },
+  {
+    "word": "tactic",
+    "type": [
+      { "en": "n", "zh": "策略；戰術" }
+    ]
+  },
+  {
+    "word": "transformation",
+    "type": [
+      { "en": "n", "zh": "轉變；變化；改革" }
+    ]
+  },
+  {
+    "word": "uncover",
+    "type": [
+      { "en": "v", "zh": "揭露；發現" }
+    ]
+  },
+  {
+    "word": "undergo",
+    "type": [
+      { "en": "v", "zh": "經歷；承受" }
+    ]
+  },
+  {
+    "word": "undertake",
+    "type": [
+      { "en": "v", "zh": "承擔；著手做" }
+    ]
+  },
+  {
+    "word": "undo",
+    "type": [
+      { "en": "v", "zh": "撤銷；解開" }
+    ]
+  },
+  {
+    "word": "unify",
+    "type": [
+      { "en": "v", "zh": "統一；使一致" }
+    ]
+  },
+  {
+    "word": "utilize",
+    "type": [
+      { "en": "v", "zh": "利用；使用" }
+    ]
+  }
+]
